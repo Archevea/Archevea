@@ -35,10 +35,8 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="left">
-![](https://github-readme-stats.vercel.app/api?username=archevea&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=archevea&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=archevea&theme=github_dark&hide_border=true)<br/>
-</div>
 
 <!---
 ###
