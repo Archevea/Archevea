@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Management Information Systems student at Cankaya University. I'm at my junior year at university. I'm currently 21 years old. I have a strong interest in data analysis, data visualization, web development, and software development. I enjoy solving real-world problems through technology. I'm passionate about deriving meaningful insights from data and building data-driven solutions. Currently expanding my skills in data visualization and analysis to apply my skills in real-world projects.</p>
+<p align="left">I'm a Management Information Systems student at Cankaya University. I'm at my senior year at university. I'm currently 23 years old. I have a strong interest in data analysis, data visualization, web development, and software development. I enjoy solving real-world problems through technology. I'm passionate about deriving meaningful insights from data and building data-driven solutions. Currently expanding my skills in data visualization and analysis to apply my skills in real-world projects.</p>
 
 ###
 
